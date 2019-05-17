@@ -1,2 +1,2 @@
 # SDD_parser
-To create images annotated from Stanford Drone Dataset.
+To create annotated images from Stanford Drone Dataset.
