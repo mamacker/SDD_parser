@@ -16,7 +16,7 @@ n=1000 #capture every nth frame
 
 
 dictionary = {'"Pedestrian"\n': 0, '"Biker"\n' : 1, '"Bus"\n':2, '"Car"\n':3,'"Skater"\n':4,'"Cart"\n':5}
-os.system("rm somefile.txt")
+
 temp2 = 0
 os.system("mkdir labels")
 for line in f:
@@ -48,4 +48,4 @@ for line in f:
 # 	with open(filename, 'a') as the_file:
 # 		the_file.write(f3[i])	
 
-os.system("rm somefile.txt temp.txt res.txt")
+os.system("rm temp.txt res.txt")
