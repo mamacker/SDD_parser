@@ -1,7 +1,7 @@
 import cv2
 import os
-img_path = "./images/projects_SDD_parser_0.jpg"
-ann_path = "./labels/projects_SDD_parser_0.txt"
+img_path = "./hyang_video5_5.jpg"
+ann_path = "./hyang_video5_5.txt"
 
 img = cv2.imread(img_path)
 

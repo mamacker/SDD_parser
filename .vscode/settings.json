@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/sandeep/python-envs/nnenv/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
